@@ -10,6 +10,6 @@ $(window).scroll(function() {
      
     } else {
         $("#header-wrapper").css('position', 'relative')
-      $("#header-wrapper").css('background', 'url(https://diendan.hocmai.vn/styles/giaodiennammoi/footer.jpg)')
+      $("#header-wrapper").css('background', '#2FA1B3')
     }
 });
